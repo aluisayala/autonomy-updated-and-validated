@@ -1,0 +1,8 @@
+{
+  "project": "ZPE-1 Cognitive Simulation System",
+  "author": "Luis Ayala",
+  "github": "https://github.com/aluisayala/autonomy-control",
+  "license": "MIT",
+  "description": "Autonomous cognitive agents simulation with Omega Control Key equation and web integration.",
+  "year": 2025
+}
